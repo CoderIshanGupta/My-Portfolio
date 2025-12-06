@@ -93,7 +93,7 @@ ${message}
 If you notice anything missing or want to add more details,
 just reply to this email and I'll see your updated information.
 
-Best,
+Best Regards,
 Ishan Gupta
     `.trim();
 
@@ -114,7 +114,7 @@ Ishan Gupta
   <p style="margin: 12px 0 4px;">
     If you notice anything missing or want to add more details, simply reply to this email and I&apos;ll see your updated information.
   </p>
-  <p style="margin: 4px 0 0;">Best,<br />Ishan Gupta</p>
+  <p style="margin: 4px 0 0;">Best Regards,<br />Ishan Gupta</p>
 </div>
     `.trim();
 

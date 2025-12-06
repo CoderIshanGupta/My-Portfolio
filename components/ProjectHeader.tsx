@@ -5,7 +5,7 @@ import Image from 'next/image';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useState } from 'react';
 
-// --- CONFIG ---
+// --- CONFIG --
 const SECTIONS = [
   { id: 'home', label: 'Home' },
   { id: 'about', label: 'About' },

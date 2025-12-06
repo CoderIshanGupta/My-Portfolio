@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   },
   description:
     'Portfolio of Ishan Gupta, a full-stack and mobile developer building performant web and Flutter applications.',
-  metadataBase: new URL('https://your-domain.com'), // TODO: replace with your real URL
+  metadataBase: new URL('https://www.ishangupta.works'), // TODO: replace with your real URL
   openGraph: {
     title: 'Ishan Gupta | Full-Stack & Mobile Developer',
     description:
       'Portfolio of Ishan Gupta, a full-stack and mobile developer building scalable web and mobile apps.',
-    url: 'https://your-domain.com', // TODO: replace
+    url: 'https://www.ishangupta.works', // TODO: replace
     siteName: 'Ishan Gupta Portfolio',
     images: [
       {

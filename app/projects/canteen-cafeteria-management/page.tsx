@@ -84,7 +84,7 @@ export default function CanteenCafeteriaProjectPage() {
                   Links
                 </h2>
                 <a
-                  href="#"
+                  href="https://github.com/CoderIshanGupta/Canteen-Cafeteria"
                   className="mt-1 block text-sm text-cyan-400 underline underline-offset-2 hover:text-cyan-300"
                 >
                   GitHub Repository ↗
